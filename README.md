@@ -1,4 +1,4 @@
-<h1>How to use uniMail</h1>
+<h1>How to use unEmail</h1>
 
 
 Include jQuery;<br>
