@@ -8,3 +8,9 @@
 <p>Create HTML Hidden Required Fields with you values;</p>
 <p>Change path to mail.php in you JS.</p>
 <p>Done!</p>
+
+<style>
+  p{
+    line-height: 10px;
+  }
+</style>
