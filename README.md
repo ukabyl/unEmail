@@ -1,16 +1,12 @@
 <h1>How to use uniMail</h1>
 
 
-<p>Include jQuery;</p>
-<p>Include Ajax code from script.js;</p>
-<p>Change Ajax selector in you JS;</p>
-<p>Create HTML form with you form class;</p>
-<p>Create HTML Hidden Required Fields with you values;</p>
-<p>Change path to mail.php in you JS.</p>
-<p>Done!</p>
+Include jQuery;<br>
+Include Ajax code from script.js;<br>
+Change Ajax selector in you JS;<br>
+Create HTML form with you form class;<br>
+Create HTML Hidden Required Fields with you values;<br>
+Change path to mail.php in you JS.<br>
+Done!
 
-<style>
-  p{
-    line-height: 10px;
-  }
-</style>
+
