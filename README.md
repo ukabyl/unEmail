@@ -1,4 +1,4 @@
-#How to use uniMail
+How to use uniMail
 Include jQuery;
 Include Ajax code from script.js;
 Change Ajax selector in you JS;
